@@ -18,7 +18,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vicktor448w)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/l9brasil)
 
-### Algumas das linguagens que tenho conhecimero 
+### Algumas das linguagens/ Marcações que tenho conhecimero 
 
 <div style="display: inline_block"><br>
 <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
