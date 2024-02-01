@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FF2D00&height=120&section=header"/>
 
 
-<img align="right" width="280" height="280" src="https://catbox.moe/pictures/qts/1456795820199.png">
+<img align="right" width="280" height="280" src="https://catbox.moe/pictures/qts/1422254058570.png">
 <img align="left" width="90" alt="about" src="https://files.catbox.moe/hm869n.png"> 
 <h2>Sobre Mim</h2>
 
