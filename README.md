@@ -6,20 +6,20 @@
 <h2>Sobre Mim</h2>
 
 ```Python
-class Pentester:
+class XD:
     def __init__(self):
         self.nome = "João Vicktor"
         self.certificacoes = "ALURA | DANKICODE | TDI "
         self.atuacao = "Freela"
 
 if __name__ == "__main__":
-    joao = Pentester()
+    joao = XD()
 ```
 
 <hr>
 
 <h2> Github Stats </h2>
-
+<br>
 <div align="center">
   <a href="https://github.com/maliqto">
   <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maliqto&layout=compact&theme=tokyonight"/>
